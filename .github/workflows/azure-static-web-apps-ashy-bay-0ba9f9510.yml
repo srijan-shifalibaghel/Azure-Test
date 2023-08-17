@@ -1,6 +1,5 @@
 name: Azure Static Web Apps CI/CD
-
-on:
+skip_app_build: true
   push:
     branches:
       - main
